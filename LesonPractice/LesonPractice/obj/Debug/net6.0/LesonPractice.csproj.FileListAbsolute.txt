@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C#\practice2\Practice\LesonPractice\LesonPractice\obj\Debug\net6.0\LesonPractice.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C#\practice2\Practice\LesonPractice\LesonPractice\obj\Debug\net6.0\LesonPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C#\practice2\Practice\LesonPractice\LesonPractice\obj\Debug\net6.0\LesonPractice.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C#\practice2\Practice\LesonPractice\LesonPractice\obj\Debug\net6.0\LesonPractice.AssemblyInfo.cs
+C:\Users\HP\Desktop\C#\practice2\Practice\LesonPractice\LesonPractice\obj\Debug\net6.0\LesonPractice.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#\practice2\Practice\LesonPractice\LesonPractice\bin\Debug\net6.0\LesonPractice.exe
+C:\Users\HP\Desktop\C#\practice2\Practice\LesonPractice\LesonPractice\bin\Debug\net6.0\LesonPractice.deps.json
+C:\Users\HP\Desktop\C#\practice2\Practice\LesonPractice\LesonPractice\bin\Debug\net6.0\LesonPractice.runtimeconfig.json
+C:\Users\HP\Desktop\C#\practice2\Practice\LesonPractice\LesonPractice\bin\Debug\net6.0\LesonPractice.dll
+C:\Users\HP\Desktop\C#\practice2\Practice\LesonPractice\LesonPractice\bin\Debug\net6.0\LesonPractice.pdb
+C:\Users\HP\Desktop\C#\practice2\Practice\LesonPractice\LesonPractice\obj\Debug\net6.0\LesonPractice.dll
+C:\Users\HP\Desktop\C#\practice2\Practice\LesonPractice\LesonPractice\obj\Debug\net6.0\refint\LesonPractice.dll
+C:\Users\HP\Desktop\C#\practice2\Practice\LesonPractice\LesonPractice\obj\Debug\net6.0\LesonPractice.pdb
+C:\Users\HP\Desktop\C#\practice2\Practice\LesonPractice\LesonPractice\obj\Debug\net6.0\LesonPractice.genruntimeconfig.cache
+C:\Users\HP\Desktop\C#\practice2\Practice\LesonPractice\LesonPractice\obj\Debug\net6.0\ref\LesonPractice.dll
